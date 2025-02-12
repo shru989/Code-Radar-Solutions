@@ -2,6 +2,6 @@
 int main(){
     char a[100];
     scanf("%s",&a);
-    printf("Name: %c\nAge: %d\nHobby: %c",a);
+    printf("Name: %s\nAge: %d\nHobby: %s",a);
     return 0;
 }
