@@ -1,14 +1,14 @@
-#include<stido.h>
+#include<stdioo.h>
 int main(){
     int a;
     scanf("%d",&a);
     if (n==0);
-    printf("%d",zero);
+    printf("%d",Zero);
     elif(n<0){
-        printf("%d",negative);
+        printf("%d",Negative);
     }
     else(n>0){
-        printf("%d",positive);
+        printf("%d",Positive);
     }
     return 0;
 }
