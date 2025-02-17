@@ -3,10 +3,10 @@ int main(){
     int a;
     scanf("%d",&a);
     if(a%2==0){
-        printf("even",a);
+        printf("Even",a);
     }
     else{
-        printf("odd",a);
+        printf("Odd",a);
     }
     return 0;
 }
