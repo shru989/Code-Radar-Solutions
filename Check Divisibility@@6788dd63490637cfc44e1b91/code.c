@@ -4,12 +4,13 @@ int main(){
     scanf("%d",&a);
     if (a%5==0){
         printf("Divisible by 5");}
-    else if (a%11==0);{
+    else if (a%11==0){
         printf("Divisible by 11");}
-        else if (a%5==0 && a%11==0);{
-            printf("Divisible")}
+        else if (a%5==0 && a%11==0){
+            printf("Divisible");}
     else{
-        printf("Indivisible")
+        printf("Not Divisible");
+
     }
     return 0;
 }
