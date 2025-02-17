@@ -2,12 +2,12 @@
 int main(){
     int a;
     scanf("%d",&a);
-    if (n==0);
+    if (a==0);
     printf("%d", Zero);
-    elif(n<0){
+    elif(a<0){
         printf("%d", Negative);
     }
-    else(n>0){
+    else(a>0){
         printf("%d", Positive);
     }
     return 0;
